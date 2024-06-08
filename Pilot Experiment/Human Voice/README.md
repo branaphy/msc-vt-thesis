@@ -1,0 +1,1 @@
+The human voice used from this study was taken from a pre-recorded excerpt of The North Wind and the Sun read by a classmate, Jocomin Galarneau, and used with permission from the speaker. Thank you to Joco for lending your voice for the experiment. 
