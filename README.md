@@ -12,6 +12,9 @@ When the thesis is evaluated and published, the final version of the thesis will
   - [Stimuli](#stimuli)
   - [Procedure](#procedure)
 - [Primary Experiment](#primary-experiment): Includes all data needed to recreate the primary experiment.
+  - [Participant Selection](#participant-selection)
+  - [Stimuli](#stimuli)
+  - [Procedure](#procedure)
 
 ## Abstract
 
