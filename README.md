@@ -7,14 +7,8 @@ When the thesis is evaluated and published, the final version of the thesis will
 ## Table of Contents
 
 - [Abstract](#abstract)
-- [Pilot Experiment](#pilot-experiment): Includes all data needed to recreate the pilot experiment.
-  - [Participant Selection](#participant-selection)
-  - [Stimuli](#stimuli)
-  - [Procedure](#procedure)
-- [Primary Experiment](#primary-experiment): Includes all data needed to recreate the primary experiment.
-  - [Participant Selection](#participant-selection)
-  - [Stimuli](#stimuli)
-  - [Procedure](#procedure)
+- [Pilot Experiment](#pilot-experiment)
+- [Primary Experiment](#primary-experiment)
 
 ## Abstract
 
